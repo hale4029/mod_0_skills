@@ -1,0 +1,16 @@
+Dr. Pepper
+
+Attributes:
+ 1. drink_name = {1: "Dr. Pepper"}
+ 2. carbonated = true
+ 3. full_volume = 12 oz
+ 4. current_volume = 6 oz
+ 4. alcoholic = false
+ 5. pre_made = true
+ 6. glass_type {1: "N/A"}
+
+Methods:
+ 1. fill_drink = do not fill (> 50%)
+ 2. send_ticket_to_bartender = No
+ 3. use_type_of_glass = N/A
+ 4. fountain_drink = use fountain machine
