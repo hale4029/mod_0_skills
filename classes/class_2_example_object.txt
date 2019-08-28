@@ -1,0 +1,16 @@
+Cheese Pizza
+
+
+Attributes:
+ 1. Warm_dish = True
+ 2. Spicy_dish = False
+ 3. Dish_name = {1: Cheese Pizza}
+ 4. Garnishing = True
+ 5. Garnishing_ingredients {1: "Add: parm and side olives"}
+ 6. appetizer = False
+
+Methods:
+ 1. send_ticket_to_chef = send to chef
+ 2. send_ticket_garnish = garnish table
+ 3. bring_milk = don't bring milk
+ 4. app = bring as main dish

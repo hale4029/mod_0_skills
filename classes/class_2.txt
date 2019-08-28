@@ -1,0 +1,15 @@
+Food
+
+Attributes:
+ 1. Warm_dish (boolean)
+ 2. Spicy_dish (boolean)
+ 3. Dish_name (hash)
+ 4. Garnishing (boolean)
+ 5. Garnishing_ingredients (array)
+ 6. appetizer (boolean)
+
+Methods:
+ 1. send_ticket_to_chef (if warm dish, send ticket to chef)
+ 2. send_ticket_garnish (if Garnishing = True, then send array of ingredients to garnishing table)
+ 3. bring_milk (if spicy = True, bring milk)
+ 4. app (if appetizer, bring before main dishes)
