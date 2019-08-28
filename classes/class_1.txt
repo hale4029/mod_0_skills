@@ -1,0 +1,17 @@
+Beverages
+
+Attributes:
+ 1. drink_name (hash)
+ 2. carbonated (boolean)
+ 3. full_volume (Integer)
+ 4. current_volume (Integer)
+ 4. alcoholic (boolean)
+ 5. pre_made (boolean)
+ 6. glass_type (hash)
+
+Methods:
+ 1. fill_drink (if (current_volume / full_volume) < 30%, refill drink)
+ 2. send_ticket_to_bartender (if alcoholic AND pre_made = False, send ticket to bar)
+ 3. use_type_of_glass (key, value pair for drink_name signals which glass_type)
+ 4. fountain_drink (if carbonated, use soft-drink machine)
+ 
