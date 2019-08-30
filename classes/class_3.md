@@ -14,7 +14,7 @@
     - Action: update `premium_discount_multiplier` to reflect new premium or discount
     - Attribute(s) used: `premium_discount_multiplier`
 2. display_list_price
-    - Action: `print "list price: #{base_price * prem_discount_multiplier}"`
+    - Action: `print "list price: #{base_price * premium_discount_multiplier}"`
     - Attribute(s) used: `base_price` and `premium_discount_multiplier`
 3. ownership_changed
     - Action: change name of `owner` to new string
