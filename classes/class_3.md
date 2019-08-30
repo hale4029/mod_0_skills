@@ -1,6 +1,6 @@
-#Class: HouseListing
+# Class: HouseListing
 
-##Attributes:
+## Attributes:
 
 1. square_feet (integer)
 2. premium_discount_multiplier (float)
@@ -8,7 +8,7 @@
 4. for_sale (boolean)
 5. base_price (integer)
 
-##Methods:
+## Methods:
 
 1. update_premium_discount_multiplier
   - Action: update `prem_discount_multiplier` to reflect new premium or discount
