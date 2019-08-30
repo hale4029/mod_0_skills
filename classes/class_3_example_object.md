@@ -1,6 +1,6 @@
-#Instance: listing_1010
+# Instance: listing_1010
 
-##Attributes:
+## Attributes:
 
 1. square_feet = 2,000
 2. premium_discount_multiplier = 1.10
@@ -9,7 +9,7 @@
 4. for_sale = True
 5. base_price = $200,000
 
-##Methods:
+## Methods:
 
 1. update_premium_discount_multiplier
   - **Output: change from 1.00 to 1.10**
