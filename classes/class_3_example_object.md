@@ -18,11 +18,11 @@
 2. display_list_price
     - **Output: $220,000**
     - Action: `print "list price: #{base_price * prem_discount_multiplier}"`
-    - Attributes used: `list_price` and `prem_discount_multiplier`
+    - Attribute(s) used: `list_price` and `prem_discount_multiplier`
 3. ownership_changed
     - **Output: change name to "Ellyn Green"**
     - Action: change name of `owner` to new string
-    - Attributes used: `owner`
+    - Attribute(s) used: `owner`
 4. sold
    - **Output: change from True to False**
    - Action: change `for_sale` from true to false
