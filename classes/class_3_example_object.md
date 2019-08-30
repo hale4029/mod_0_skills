@@ -4,7 +4,7 @@
 
 1. square_feet = 2,000
 2. premium_discount_multiplier = 1.10
-  - this would indicate a 10% premium from base_price
+ - this would indicate a 10% premium from base_price
 3. owner = "Harrison Levin"
 4. for_sale = True
 5. base_price = $200,000
