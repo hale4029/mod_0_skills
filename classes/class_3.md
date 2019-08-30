@@ -11,7 +11,7 @@
 ## Methods:
 
 1. update_premium_discount_multiplier
-    - Action: update `prem_discount_multiplier` to reflect new premium or discount
+    - Action: update `premium_discount_multiplier` to reflect new premium or discount
     - Attribute(s) used: `prem_discount_multiplier`
 2. display_list_price
     - Action: `print "list price: #{base_price * prem_discount_multiplier}"`
